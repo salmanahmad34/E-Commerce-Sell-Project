@@ -54,18 +54,7 @@ This project is an interactive **E-Commerce Sales Dashboard** built using **Micr
 - Sarees recorded the highest quantity sold.
 - Interactive filters allow dynamic business analysis.
 
----
 
-## 📂 Project Files
-
-```
-E-Commerce-Sell-Project/
-│── E-Commerce Dashboard.pbix
-│── Dataset.xlsx
-│── README.md
-```
-
----
 
 ## 🚀 How to Use
 
